@@ -35,9 +35,10 @@
 
 ## 🛠 기술 스택
 
-- **ML / DL**: `XGBoost` `PyTorch` `scikit-learn` `SentenceBERT` `FAISS` `Optuna`
+- **ML / DL**: `XGBoost` `PyTorch` `scikit-learn` `SentenceBERT` `Optuna`
+- **벡터 검색**: `FAISS` `PGVector` `PostgreSQL`
 - **LLM / RAG**: `Gemini API` `google-genai`
-- **서빙 / 인프라**: `FastAPI` `Docker` `Cloud Run` `GitHub Actions` `Secret Manager`
+- **서빙 / 인프라**: `FastAPI` `Docker` `docker-compose` `Cloud Run` `GitHub Actions` `Secret Manager`
 - **데이터**: `pandas` `numpy` `aiohttp` `SQL`
 
 ## 읽어주셔서 감사합니다 :)
